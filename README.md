@@ -1,4 +1,4 @@
-# web-dev-final-project
+# Web Application Development - Final Project
 
 This repository contains files which demonstrate work done on a final project 
 in my Web Application Development class in the FA 2020 semester at 
